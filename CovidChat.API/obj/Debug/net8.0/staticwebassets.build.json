@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EmHWl9jRuyb9LKmFwHJ7cxEAQ1GV17GdV5Dpd8YC0sY=",
+  "Source": "CovidChart.API",
+  "BasePath": "_content/CovidChart.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

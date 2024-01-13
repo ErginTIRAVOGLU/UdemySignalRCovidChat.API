@@ -1,0 +1,6 @@
+@CovidChat.API_HostAddress = http://localhost:5072
+
+GET {{CovidChat.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
